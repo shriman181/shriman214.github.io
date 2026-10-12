@@ -1,0 +1,40 @@
+# Mistara
+
+> Mistara is software for ceding insurers that verifies reinsurance collateral at its source and re-tests it against loss development every month. It reads treaties, letters of credit, Regulation 114-style trust agreements, side letters, funds-withheld and modified-coinsurance arrangements, trustee statements and bordereaux; confirms letters of credit with the issuing or confirming bank; re-estimates secured exposure from current development; runs the contractual deadlines; and drafts collateral top-up demands, draw presentations and notices for a named person to sign. Every program and counterparty gets a Cover Ratio.
+
+Mistara is an early-stage company founded in 2026, with engineering in Mumbai and commercial work in New York. It is taking its first design partners. Founder and CEO: Abhisar Mehta (https://www.linkedin.com/in/abhisarmehta/). Contact: founder@mistara.space.
+
+## Key terms
+
+- Cover Ratio: verified collateral divided by the collateral a treaty would require if secured exposure were re-estimated from current loss development. Below 1.00 means a shortfall.
+- Collateral Sweep: a fixed-fee review of a ceding insurer's book, roughly 30 days, USD 40,000 to 75,000, credited against the first year's subscription.
+- Cedent edition: for fronting, program and specialty carriers, and life and annuity insurers.
+- Capital edition: for reinsurers, sidecars, ILS funds and captives that post collateral.
+
+## Product
+
+- Security Compiler: builds a Day-1 Security Register of every collateral obligation in a treaty, with clause citations, signed off by a person.
+- Exposure Stream: ingests bordereaux, case reserves, IBNR, loss triangles and ledger extracts.
+- Source Check: confirms instruments with the issuing bank or trustee; reconciles trustee statements; checks issuer qualification.
+- Development Engine: re-estimates secured exposure monthly; the cedent's reserving actuary confirms.
+- The Clock: deterministic deadlines for expiry, non-renewal notice, draw-or-replace, true-ups and top-up windows.
+- Demand Composer: drafts demands and notices; nothing is sent automatically.
+- Cover Ledger: Cover Ratio by program and counterparty, with board, rating-agency and Schedule F support packs.
+
+## Pricing (USD)
+
+- Program: up to $500M of secured exposure, $120k per year
+- Carrier: $500M to $3B, $240k to $360k per year
+- Enterprise: over $3B including life and annuity, custom, typically from $600k per year
+- Capital edition: $40k to $90k per year per posting entity
+- No success fee
+
+## Pages
+
+- [Home](https://mistara.space/): product, how it works, pricing, about, founder, FAQ
+- [Cover Ratio check](https://mistara.space/#cover-ratio): free in-browser calculator
+- [Founder](https://mistara.space/#founder)
+
+## Notes
+
+Product screens and worked examples on the site use illustrative data with fictional counterparties. Industry figures on the site link to their public sources.
