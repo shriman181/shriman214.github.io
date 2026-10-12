@@ -1,0 +1,10 @@
+/* TEAM */
+Founder & CEO: Abhisar Mehta
+Contact: founder [at] mistara.space
+LinkedIn: https://www.linkedin.com/in/abhisarmehta/
+From: Mumbai and New York
+
+/* SITE */
+Last update: 2026/10/12
+Standards: HTML5, CSS3
+Fonts: Figtree, Geist Mono

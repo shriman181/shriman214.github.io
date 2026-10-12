@@ -1,0 +1,14 @@
+{
+  "name": "Mistara",
+  "short_name": "Mistara",
+  "description": "Reinsurance collateral, verified at its source and re-tested against loss development every month.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f4f5f7",
+  "theme_color": "#f4f5f7",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
