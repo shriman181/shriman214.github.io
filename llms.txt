@@ -1,0 +1,41 @@
+# Lavinora
+
+> Lavinora is AI software for construction commercial and contracts teams. It reads the project record as it is written (site diaries, Engineer's instructions, RFIs, minutes, letters, email and programme updates), recognises events that entitle a contractor or employer to time or money under FIDIC and NEC contracts, computes the contractual time bars, measures the programme impact, and drafts notices for a named person to sign. Every event is kept in an Entitlement Ledger.
+
+- Website: https://lavinora.cloud/
+- Founded: 2026, offices in Mumbai and Dubai
+- Founder & CEO: Shriman Maheshwari (https://www.linkedin.com/in/shriman-maheshwari/)
+- Contact: ceo@lavinora.cloud
+- Markets: GCC (Saudi Arabia, UAE, Qatar) and India first, then the UK and Australia
+
+## Contracts supported
+
+- FIDIC 1999 and 2017 (Red, Yellow and Silver Books), including Particular Conditions
+- NEC3 and NEC4 Engineering and Construction Contract, including Z clauses
+- Statutory notice duties under the UAE Civil Transactions Law (Federal Decree-Law No. 25 of 2025, in force 1 June 2026)
+- Indian model EPC and HAM agreements: on the roadmap
+
+## Product
+
+- Day-1 Register: every notice duty in the contract with trigger, deadline, form, recipient and clause text
+- Event recognition across project records in English and Arabic
+- The Clock: deterministic time-bar engine (for example FIDIC 2017 Sub-Clause 18.2, 14 days; 20.2.1, 28 days; 20.2.4, 84 days; NEC4 clause 61.3, 8 weeks)
+- Notice Composer with form checks; nothing is sent automatically
+- Impact Engine: time impact analysis on Primavera P6 and MS Project
+- Entitlement Ledger across a project portfolio
+- Employer and Engineer edition
+- Data residency in the UAE and Saudi Arabia; no training on customer data without opt-in
+
+## Pricing (per project, unlimited users)
+
+- Site: USD 1,500 per month, projects under USD 50M
+- Programme: USD 4,500 per month, projects of USD 50M to 250M
+- Major: USD 9,000 per month, projects of USD 250M to 1B
+- Mega: custom, projects over USD 1B
+- Entitlement Sweep: USD 15,000 to 25,000 fixed review of one live project, credited against year one
+
+## Free tool
+
+- Notice clock: https://lavinora.cloud/#library — enter the contract, event type and awareness date to see every deadline and download them as a calendar file.
+
+Lavinora is software, not a law firm, and does not give legal advice.
